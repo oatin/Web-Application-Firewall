@@ -1,0 +1,20 @@
+{
+  "name": "web-application-firewall",
+  "version": "1.0.0",
+  "description": "Web Application Firewall (WAF)",
+  "homepage": "https://github.com/oatin/Web-Application-Firewall#readme",
+  "bugs": {
+    "url": "https://github.com/oatin/Web-Application-Firewall/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oatin/Web-Application-Firewall.git"
+  },
+  "license": "ISC",
+  "author": "oatin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
